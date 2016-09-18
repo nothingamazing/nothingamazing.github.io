@@ -7,7 +7,7 @@ author:     "没什么了不起"
 header-img: "img/post-bg-alitrip.jpg"
 catalog: true
 tags:
-    - hello
+    - markdown
 ---
 
 
