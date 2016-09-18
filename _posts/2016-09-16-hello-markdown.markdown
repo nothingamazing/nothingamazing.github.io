@@ -1,14 +1,14 @@
-----
--layout:     post
--title:      "Hello, World!"
--subtitle:   "Hello, World!"
--date:       2016-09-16
--author:     "娌′粈涔堜簡涓嶈捣"
--header-img: "img/post-bg-alitrip.jpg"
--catalog: true
--tags:
--    - hello
-----
+---
+layout:     post
+title:      "Hello, World!"
+subtitle:   "Hello, World!"
+date:       2016-09-16
+author:     "没什么了不起"
+header-img: "img/post-bg-alitrip.jpg"
+catalog: true
+tags:
+    - hello
+---
 
 
 > 鉴于本blog都是采用markdown格式写的，所以第一篇就介绍下markdown的基本语法
@@ -21,13 +21,13 @@
 
 	# Heading
 
-		## Sub-heading
+	## Sub-heading
 
-			### Another deeper heading
+	### Another deeper heading
 
-			# Heading
+# Heading
 
-			## Sub-heading
+## Sub-heading
 
-			### Another deeper heading
+### Another deeper heading
 
