@@ -31,15 +31,15 @@ tags:
 
 ### Another deeper heading
 
-##文字
+## 文字
 
 文字换行使用2个空格。
 
-`Paragraphs are separated
+` Paragraphs are separated
 by a blank line.
 
 Two spaces at the end of a line leave a  
-line break.`
+line break. `
 
 Paragraphs are separated
 by a blank line.
