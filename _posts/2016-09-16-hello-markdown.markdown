@@ -33,16 +33,44 @@ tags:
 
 ## 文字
 
-文字换行使用2个空格。
+文字换行使用2个空格，直接回车的话是不会有换行的效果的。
 
-` Paragraphs are separated
-by a blank line.
-
-Two spaces at the end of a line leave a  
-line break. `
+	Paragraphs are separated
+	by a blank line.
+ 
+	Two spaces at the end of a line leave a  
+	line break
 
 Paragraphs are separated
 by a blank line.
 
 Two spaces at the end of a line leave a  
 line break.
+
+## 列表
+
+熟悉 HTML 的同学肯定知道有序列表与无序列表的区别，在 Markdown 下，列表的显示只需要在文字前加上 - 或 * 即可变为无序列表，有序列表则直接在文字前加1. 2. 3. 符号要和文字之间加上一个字符的空格。
+
+	无序列表:
+	
+	  * apples
+	  * oranges
+	  * pears
+	
+	有序列表:
+	
+	  1. apples
+	  2. oranges
+	  3. pears
+	  
+无序列表:
+
+  * apples
+  * oranges
+  * pears
+
+有序列表:
+
+  1. apples
+  2. oranges
+  3. pears
