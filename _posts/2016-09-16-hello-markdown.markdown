@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Hello, World!"
-subtitle:   "Hello, World!"
+title:      "Markdown"
+subtitle:   "基本语法介绍"
 date:       2016-09-16
 author:     "没什么了不起"
 header-img: "img/post-bg-alitrip.jpg"
